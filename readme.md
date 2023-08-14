@@ -1,4 +1,4 @@
-= Swoole: Installing and Learning
+# Swoole: Installing and Learning
 
 - [Installation](./installation.md)
 - [Overview](./overview.md)
